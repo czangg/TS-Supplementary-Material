@@ -1,4 +1,4 @@
-# Teaching-Sociology-Online-Appendix
+# Teaching Sociology Online Appendix
 
 This site contains supplementary material for the article *Assessing Student Preferences for Quantitative Methods Courses Using Discrete Choice Experiments*, to be published in [Teaching Sociology](https://journals.sagepub.com/home/tso). 
 
